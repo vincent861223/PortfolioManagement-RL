@@ -1,1 +1,7 @@
 venv/
+Data
+Data.zip
+__pycache__
+log
+price-volume-data-for-all-us-stocks-etfs
+output
